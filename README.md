@@ -10,10 +10,10 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **A create form allows users to add new cremates**
-- [ ] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- [X] **A create form allows users to add new crewmates**
+- [X] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
 - [ ] **The site displays a summary page of all the user's added crewmates**
-- [ ] **A previously created crewmate can be updated and deleted from the crewmate list**
+- [X] **A previously created crewmate can be updated and deleted from the crewmate list**
 - [ ] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICECap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
