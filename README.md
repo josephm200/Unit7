@@ -2,7 +2,8 @@
 
 Submitted by: Joseph Mecherikunnel
 
-This web app: **hello**
+This web app: This app allows for adding and deleting "crewmates" to a list. In future iterations, I hope
+to implement more detaild information about each crewmate added and/or removed.
 
 Time spent: 5 hours spent in total
 
